@@ -51,5 +51,4 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
