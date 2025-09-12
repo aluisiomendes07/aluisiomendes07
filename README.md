@@ -4,17 +4,22 @@
 </h1>
 <h3>Analista de Dados</h3>
 
-<!--
-**aluisiomendes07/aluisiomendes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎲 Eu estou trabalhando como autonomo 
+- 🔭🎲 Eu estou estudando Analise de dados no Senac
+- 📫 Meu e-mail: aluisiomendes129@gmail.com
+
+##
+
+<div>
+  <a href="https://github.com/aluisiomendes07"> 
+<img height="42%" src="https://github-readme-stats.vercel.app/api?username=denisilvace&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="50%
+" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisilvace&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+- 
 -->
